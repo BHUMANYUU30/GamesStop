@@ -63,7 +63,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/gamestop-website.git
+git clone https://github.com/BHUMANYUU30/GamesStop
 Navigate to the project directory:
 
 bash
